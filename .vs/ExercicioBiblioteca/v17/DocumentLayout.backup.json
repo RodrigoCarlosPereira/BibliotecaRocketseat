@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|c:\\users\\rodri\\documents\\projetos\\projetorocketseatcsharp\\exerciciobiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|solutionrelative:controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|c:\\users\\rodri\\documents\\projetos\\projetorocketseatcsharp\\exerciciobiblioteca\\requests\\requestatualizarlivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|solutionrelative:requests\\requestatualizarlivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|c:\\users\\rodri\\documents\\projetos\\projetorocketseatcsharp\\exerciciobiblioteca\\requests\\requestcriarlivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|solutionrelative:requests\\requestcriarlivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|c:\\users\\rodri\\documents\\projetos\\projetorocketseatcsharp\\exerciciobiblioteca\\entity\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|solutionrelative:entity\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|c:\\users\\rodri\\documents\\projetos\\projetorocketseatcsharp\\exerciciobiblioteca\\response\\responsecriarlivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|solutionrelative:response\\responsecriarlivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|c:\\users\\rodri\\documents\\projetos\\projetorocketseatcsharp\\exerciciobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|c:\\users\\rodri\\documents\\projetos\\projetorocketseatcsharp\\exerciciobiblioteca\\controllers\\bibliotecabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF04523-83A6-40B8-BFCB-5C025B81550D}|ExercicioBiblioteca.csproj|solutionrelative:controllers\\bibliotecabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestAtualizarLivroJson.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Requests\\RequestAtualizarLivroJson.cs",
+              "RelativeDocumentMoniker": "Requests\\RequestAtualizarLivroJson.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Requests\\RequestAtualizarLivroJson.cs",
+              "RelativeToolTip": "Requests\\RequestAtualizarLivroJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:52:37.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:24:10.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseCriarLivroJson.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Response\\ResponseCriarLivroJson.cs",
+              "RelativeDocumentMoniker": "Response\\ResponseCriarLivroJson.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Response\\ResponseCriarLivroJson.cs",
+              "RelativeToolTip": "Response\\ResponseCriarLivroJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:03:48.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestCriarLivroJson.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Requests\\RequestCriarLivroJson.cs",
+              "RelativeDocumentMoniker": "Requests\\RequestCriarLivroJson.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Requests\\RequestCriarLivroJson.cs",
+              "RelativeToolTip": "Requests\\RequestCriarLivroJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:50:43.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Controllers\\LivroController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:39:53.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Entity\\Livro.cs",
+              "RelativeDocumentMoniker": "Entity\\Livro.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Entity\\Livro.cs",
+              "RelativeToolTip": "Entity\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:28:33.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BibliotecaBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Controllers\\BibliotecaBaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BibliotecaBaseController.cs",
+              "ToolTip": "C:\\Users\\rodri\\Documents\\Projetos\\ProjetoRocketseatCSharp\\ExercicioBiblioteca\\Controllers\\BibliotecaBaseController.cs",
+              "RelativeToolTip": "Controllers\\BibliotecaBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:25:34.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
